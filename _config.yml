@@ -22,6 +22,7 @@ url: "https://simplecxx.github.io" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 github_username:  dimztimz
 author: Dimitrij Mijoski
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
